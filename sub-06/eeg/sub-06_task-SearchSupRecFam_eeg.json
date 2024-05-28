@@ -1,0 +1,20 @@
+{
+    "TaskName": "SearchSupRecFam",
+    "Manufacturer": "Brain Products",
+    "ManufacturersModelName": "actiCHamp",
+    "CapManufacturer": "Brain Products",
+    "CapManufacturersModelName": "actiCAP 64 Ch",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 1000,
+    "SoftwareFilters": "n/a",
+    "EEGReference": "Contralateral mastoids (TP9, TP10)",
+    "EEGGround": "FPz",
+    "EEGPlacementScheme": "Extended 10–20 system (10–10 system)",
+    "EEGChannelCount": 61,
+    "EOGChannelCount": 1,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "InstitutionName": "Scene Grammar Lab, Goethe University Frankfurt"
+}
