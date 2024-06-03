@@ -1,0 +1,301 @@
+subj	task_num	task	trial_num	scene	obj	obj_type	conf	rk_judg	rt_conf	rt_rkj
+21	1	Search	1	Kitchen A	Cheese grater	Target	6	Remember	4.068024599924684	4.319969399832189
+21	1	Search	2	Kitchen	Kitchen towel	New (Lure)	2	New	6.124937900342047	n/a
+21	1	Search	3	Bathroom	Sanitizer dispenser	New (Lure)	1	New	5.299713900312781	n/a
+21	1	Search	4	Bedroom	Ironing board	New (Lure)	3	New	2.550696900114417	n/a
+21	1	Search	5	Bedroom	Toy blocks	New (Lure)	2	New	1.1164227994158864	n/a
+21	1	Search	6	Kitchen A	Travel mug	Target	6	Remember	3.101338299922645	4.047972800210118
+21	1	Search	7	Bathroom	Casket	New (Lure)	2	New	8.595404800027609	n/a
+21	1	Search	8	Living room	Christmas stocking	New (Lure)	2	New	1.6690015001222491	n/a
+21	1	Search	9	Kitchen A	Bread	Target	6	Remember	2.291558999568224	3.543860800564289
+21	1	Search	10	Bedroom A	Decorative owl	Distractor	4	Know	2.2658396996557713	2.9279036996886134
+21	1	Search	11	Bedroom A	Lipstick	Target	6	Remember	1.549295499920845	3.663939299993217
+21	1	Search	12	Living room A	Pot plant	Target	6	Remember	1.3898628996685147	1.6318776002153754
+21	1	Search	13	Kitchen A	Paper towels	Target	4	Know	2.0836704997345805	1.8878747997805476
+21	1	Search	14	Bathroom B	Razor	Target	6	Remember	4.339145199395716	1.9358486998826265
+21	1	Search	15	Bedroom A	Sunglasses	Target	5	Remember	2.3245560992509127	5.9518508007749915
+21	1	Search	16	Living room A	Aquarium	Target	5	Remember	2.4680526005104184	2.3358760001137853
+21	1	Search	17	Living room A	Nachos	Target	6	Remember	0.7742141000926495	1.2719066999852657
+21	1	Search	18	Kitchen	Kitchen scales	New (Lure)	3	New	2.939972000196576	n/a
+21	1	Search	19	Kitchen	Chopsticks	New (Lure)	2	New	4.4925437001511455	n/a
+21	1	Search	20	Bedroom	Playmat	New (Lure)	2	New	2.6461425004526973	n/a
+21	1	Search	21	Kitchen	Tea	New (Lure)	2	New	5.447437199763954	n/a
+21	1	Search	22	Living room A	Remote control	Target	5	Know	1.7407802995294333	1.5839125998318195
+21	1	Search	23	Bathroom	Mask	New (Lure)	3	New	6.576007700525224	n/a
+21	1	Search	24	Bathroom	Buddha	New (Lure)	3	New	3.356398900039494	n/a
+21	1	Search	25	Bedroom A	MP3 player	Distractor	2	New	4.434423100203276	n/a
+21	1	Search	26	Bedroom	Telescope	New (Lure)	4	Know	6.043787200003862	1.0878763999789953
+21	1	Search	27	Office	Desk lamp	New (Lure)	4	Know	0.7832256993278861	1.143894400447607
+21	1	Search	28	Kitchen	Jugs	New (Lure)	2	New	1.4968004003167152	n/a
+21	1	Search	29	Living room A	Rubik's Cube	Distractor	2	New	2.4114155005663633	n/a
+21	1	Search	30	Office	Ashtray	New (Lure)	1	New	2.2878803992643952	n/a
+21	1	Search	31	Kitchen A	Mangoes	Distractor	1	New	2.250737600028515	n/a
+21	1	Search	32	Living room	Ferrero Rocher glass	New (Lure)	1	New	1.3162217000499368	n/a
+21	1	Search	33	Kitchen	Tangerine	New (Lure)	1	New	1.2038484998047352	n/a
+21	1	Search	34	Bathroom B	Laundry basket	Target	6	Remember	1.2772762002423406	3.9198925998061895
+21	1	Search	35	Kitchen A	Baby bottles	Target	6	Remember	1.1006068997085094	1.4159135995432734
+21	1	Search	36	Bedroom	DVD	New (Lure)	3	New	1.6370905004441738	n/a
+21	1	Search	37	Bedroom A	Tissue box	Distractor	3	New	4.180627200752497	n/a
+21	1	Search	38	Kitchen	Blender	New (Lure)	3	New	3.3160816999152303	n/a
+21	1	Search	39	Office B	CD	Target	6	Remember	0.30235529970377684	1.8319146996363997
+21	1	Search	40	Bedroom A	Poster	Target	6	Remember	0.8029495999217033	2.0959652001038194
+21	1	Search	41	Living room A	Vases	Target	6	Remember	1.0760701997205615	1.415913000702858
+21	1	Search	42	Bedroom	Sombrero	New (Lure)	1	New	4.811495599336922	n/a
+21	1	Search	43	Bathroom B	Soap dispenser	Target	6	Remember	0.8935579005628824	1.4157961001619697
+21	1	Search	44	Bedroom	Reading lights	New (Lure)	4	Know	6.382250200025737	2.2318719998002052
+21	1	Search	45	Living room A	Books	Target	6	Remember	0.9579290999099612	1.0719421999529004
+21	1	Search	46	Living room A	Fan	Target	6	Remember	3.9190434999763966	2.6797546995803714
+21	1	Search	47	Living room	Candy cane	New (Lure)	3	New	4.7714971993118525	n/a
+21	1	Search	48	Bathroom B	Stones	Distractor	2	New	0.7436728999018669	n/a
+21	1	Search	49	Bathroom	Room spray	New (Lure)	1	New	2.3263566000387073	n/a
+21	1	Search	50	Kitchen A	Pan	Target	6	Remember	1.100806599482894	4.415961099788547
+21	1	Search	51	Living room A	Walnuts	Distractor	3	New	1.6955054998397827	n/a
+21	1	Search	52	Office B	Keyboard	Target	6	Remember	1.4509790996089578	0.943868700414896
+21	1	Search	53	Kitchen A	Dish rack	Target	6	Remember	1.339228100143373	1.2398930005729198
+21	1	Search	54	Office B	Ruler	Target	6	Remember	0.8514217007905245	1.4718829998746514
+21	1	Search	55	Office B	Letter holder	Distractor	3	New	1.7497241999953985	n/a
+21	1	Search	56	Bedroom A	Hand fan	Target	2	New	0.7557904999703169	n/a
+21	1	Search	57	Living room A	Loudspeaker	Target	6	Remember	4.60028459969908	1.9518416002392769
+21	1	Search	58	Kitchen	Cutting board	New (Lure)	3	New	1.582124900072813	n/a
+21	1	Search	59	Office	Orbit art	New (Lure)	5	Know	2.0068490002304316	1.0237244004383683
+21	1	Search	60	Bedroom	Cage	New (Lure)	2	New	0.6280771000310779	n/a
+21	1	Search	61	Bedroom A	Basketball	Target	6	Know	5.258744000457227	0.9198644999414682
+21	1	Search	62	Office B	Paper racks	Target	6	Remember	1.2401096997782588	0.8797035999596119
+21	1	Search	63	Bathroom	Sock	New (Lure)	3	New	2.2974888999015093	n/a
+21	1	Search	64	Bathroom B	Picture frames	Distractor	3	New	0.8999766008928418	n/a
+21	1	Search	65	Living room	Tennis racket	New (Lure)	2	New	3.419227000325918	n/a
+21	1	Search	66	Kitchen	Almonds	New (Lure)	2	New	1.382583599537611	n/a
+21	1	Search	67	Bedroom A	Handbag	Target	6	Remember	0.6754472004249692	1.0719779999926686
+21	1	Search	68	Bathroom	Detergent	New (Lure)	2	New	1.2759568998590112	n/a
+21	1	Search	69	Kitchen	Muffins	New (Lure)	2	New	1.2349330000579357	n/a
+21	1	Search	70	Bedroom	Pine cones	New (Lure)	2	New	1.5384951001033187	n/a
+21	1	Search	71	Living room	Binoculars	New (Lure)	3	New	1.2945218002423644	n/a
+21	1	Search	72	Office B	Microphone	Distractor	4	Know	1.8003355003893375	1.2879645004868507
+21	1	Search	73	Bedroom A	Clothes hanger	Target	6	Remember	3.924569900147617	2.5519146006554365
+21	1	Search	74	Office B	Computer mouse	Distractor	6	Know	4.153838099911809	2.359905400313437
+21	1	Search	75	Bathroom B	Pills	Target	6	Remember	0.9797334000468254	1.4796932004392147
+21	1	Search	76	Bathroom	Pocket mirror	New (Lure)	2	New	2.4201856004074216	n/a
+21	1	Search	77	Living room	VR headset	New (Lure)	1	New	1.980247600004077	n/a
+21	1	Search	78	Bathroom B	Pottery jars	Distractor	1	New	1.3831556998193264	n/a
+21	1	Search	79	Office	Air conditioner	New (Lure)	4	Know	1.0418339995667338	1.4478891007602215
+21	1	Search	80	Office B	Multi socket	Target	6	Remember	0.5399309005588293	1.3519297996535897
+21	1	Search	81	Office B	Globe	Target	6	Know	0.15117270033806562	7.087954799644649
+21	1	Search	82	Bathroom B	Plunger	Target	6	Remember	2.6131357001140714	1.95992729999125
+21	1	Search	83	Bedroom A	Lamp	Target	4	Know	2.589859999716282	0.951898300088942
+21	1	Search	84	Office	Table clock	New (Lure)	3	New	0.3565116999670863	n/a
+21	1	Search	85	Bathroom	Roll-on deodorant	New (Lure)	2	New	0.8058130005374551	n/a
+21	1	Search	86	Kitchen	Strawberries	New (Lure)	2	New	0.7386690005660057	n/a
+21	1	Search	87	Office B	Projector	Distractor	3	New	1.0914051001891494	n/a
+21	1	Search	88	Bedroom	Pipe	New (Lure)	2	New	1.0525746000930667	n/a
+21	1	Search	89	Bedroom	Eiffel tower	New (Lure)	4	Know	3.8280210997909307	1.4159238003194332
+21	1	Search	90	Kitchen A	Bowls	Distractor	2	New	0.21475400030612946	n/a
+21	1	Search	91	Kitchen A	Deep fryer	Distractor	3	New	1.5545650999993086	n/a
+21	1	Search	92	Bathroom	Necklace	New (Lure)	2	New	3.9561380995437503	n/a
+21	1	Search	93	Office	Correction fluid	New (Lure)	4	Know	2.1559744998812675	1.8639248004183173
+21	1	Search	94	Living room A	Tablet computer	Target	6	Remember	1.00406280066818	1.3198731001466513
+21	1	Search	95	Office B	Sandwich	Target	6	Remember	1.7725255992263556	1.5919471001252532
+21	1	Search	96	Bedroom	Rattle	New (Lure)	4	Know	4.269554700702429	1.5680134007707238
+21	1	Search	97	Living room	Bells	New (Lure)	2	New	0.34654169995337725	n/a
+21	1	Search	98	Living room A	Hat	Distractor	1	New	2.8274624003097415	n/a
+21	1	Search	99	Bathroom	Round box	New (Lure)	2	New	2.1493042996153235	n/a
+21	1	Search	100	Living room	Stepper	New (Lure)	2	New	3.2693645004183054	n/a
+21	1	Search	101	Living room	Blu-ray discs	New (Lure)	3	New	3.041887099854648	n/a
+21	1	Search	102	Bedroom	Wooden squirrel	New (Lure)	3	New	1.8185265995562077	n/a
+21	1	Search	103	Office	Typewriter	New (Lure)	2	New	1.2097859997302294	n/a
+21	1	Search	104	Kitchen A	Pastries	Distractor	2	New	2.127275800332427	n/a
+21	1	Search	105	Kitchen	Stovetop	New (Lure)	5	Remember	2.428248600102961	1.7999979993328452
+21	1	Search	106	Bathroom B	Curling iron	Target	6	Remember	0.40480419993400574	1.1199311995878816
+21	1	Search	107	Living room A	Television	Target	6	Remember	1.4207084001973271	1.6559614008292556
+21	1	Search	108	Bathroom	Perfume	New (Lure)	2	New	1.939802499487996	n/a
+21	1	Search	109	Office	Shredder	New (Lure)	4	Know	1.004951300099492	1.4078829996287823
+21	1	Search	110	Office	Flash drive	New (Lure)	4	Know	1.9390341006219387	1.1518280999734998
+21	1	Search	111	Bedroom A	Pillow	Target	5	Remember	2.9073396995663643	2.623843399807811
+21	1	Search	112	Bedroom A	Stool	Distractor	4	Know	2.003495099954307	1.2158562000840902
+21	1	Search	113	Office	Drive	New (Lure)	4	Know	3.3170509999617934	0.5198955992236733
+21	1	Search	114	Office	Gong	New (Lure)	1	New	0.1874414999037981	n/a
+21	1	Search	115	Bathroom B	Manicure set	Target	6	Remember	1.8222246002405882	1.4718814007937908
+21	1	Search	116	Living room A	Router	Distractor	3	New	2.7894496005028486	n/a
+21	1	Search	117	Office B	Computer screen	Target	6	Remember	0.2029526000842452	1.703953799791634
+21	1	Search	118	Office B	Printer	Target	6	Remember	0.0999507000669837	1.623942599631846
+21	1	Search	119	Bathroom B	Towel stack	Target	6	Know	1.1954159997403622	2.608088300563395
+21	1	Search	120	Living room	Candy box	New (Lure)	3	New	1.8642426002770662	n/a
+21	1	Search	121	Bathroom	Chest	New (Lure)	3	New	2.2534946994856	n/a
+21	1	Search	122	Office	Glue stick	New (Lure)	3	New	4.778309399262071	n/a
+21	1	Search	123	Kitchen A	Sponge	Target	6	Remember	2.692844900302589	0.7998922001570463
+21	1	Search	124	Kitchen A	Child's drawing	Distractor	4	Know	4.61635070014745	1.4319054000079632
+21	1	Search	125	Bedroom	Lighter	New (Lure)	2	New	1.5906140999868512	n/a
+21	1	Search	126	Office	Markers	New (Lure)	4	Know	0.9512657998129725	0.9759419001638889
+21	1	Search	127	Bedroom	Mirror	New (Lure)	1	New	0.8114948999136686	n/a
+21	1	Search	128	Living room	Wreath	New (Lure)	1	New	2.7941808998584747	n/a
+21	1	Search	129	Office B	Magnifying glass	Distractor	3	New	3.838820700533688	n/a
+21	1	Search	130	Bathroom	Bodywash	New (Lure)	3	New	1.326265700161457	n/a
+21	1	Search	131	Kitchen	Garlic	New (Lure)	3	New	4.659195899963379	n/a
+21	1	Search	132	Kitchen	Place setting	New (Lure)	2	New	1.0863106995821	n/a
+21	1	Search	133	Office	Cell phone	New (Lure)	2	New	1.3342452002689242	n/a
+21	1	Search	134	Bathroom	Spray bottle	New (Lure)	4	Know	1.1231415998190641	1.7359125996008515
+21	1	Search	135	Living room	Presents	New (Lure)	1	New	1.133826999925077	n/a
+21	1	Search	136	Kitchen A	Spatula	Target	6	Remember	1.7404901999980211	2.023850600235164
+21	1	Search	137	Living room	Tricycle	New (Lure)	1	New	1.3726386995986104	n/a
+21	1	Search	138	Kitchen	Pasta jar	New (Lure)	1	New	1.4395954003557563	n/a
+21	1	Search	139	Living room	Rocking horse	New (Lure)	1	New	3.9147595996037126	n/a
+21	1	Search	140	Office B	Parcel	Target	6	Remember	1.0531452000141144	1.2639170996844769
+21	1	Search	141	Office	Chewing gum	New (Lure)	3	New	1.812695300206542	n/a
+21	1	Search	142	Living room A	Boxes	Distractor	4	Know	1.7276985999196768	1.5198456002399325
+21	1	Search	143	Bedroom A	Alarm clock	Target	5	Know	0.7739779995754361	1.7439807001501322
+21	1	Search	144	Bedroom A	Jewelry	Distractor	2	New	2.1091525005176663	n/a
+21	1	Search	145	Bathroom B	Towel dryer	Distractor	3	New	2.022499700076878	n/a
+21	1	Search	146	Living room	Toy bricks	New (Lure)	1	New	0.5091094998642802	n/a
+21	1	Search	147	Kitchen A	Pizza leftovers	Target	6	Remember	0.10692320019006729	1.3999511003494263
+21	1	Search	148	Bathroom B	Hairbrush	Target	6	Remember	2.89959130063653	1.9199696006253362
+21	1	Search	149	Bathroom B	Deodorant spray	Target	6	Remember	1.3410048997029662	1.2960034999996424
+21	1	Search	150	Bathroom B	Hourglass	Distractor	4	Know	3.2174230003729463	1.5119060995057225
+21	2	Memorization	1	Living room B	Record player	Target	1	New	5.1625725999474525	n/a
+21	2	Memorization	2	Office	Umbrella	New (Lure)	1	New	1.57898180000484	n/a
+21	2	Memorization	3	Bedroom	African art	New (Lure)	1	New	0.7784329000860453	n/a
+21	2	Memorization	4	Kitchen B	Cutlery	Distractor	6	Remember	1.1094386000186205	1.8159149996936321
+21	2	Memorization	5	Kitchen	Champagne	New (Lure)	2	New	0.9157694997265935	n/a
+21	2	Memorization	6	Bedroom	Tie	New (Lure)	2	New	4.04241600073874	n/a
+21	2	Memorization	7	Living room	Cocktail	New (Lure)	1	New	0.5693565001711249	n/a
+21	2	Memorization	8	Office A	Encyclopedia	Target	6	Remember	1.6033716006204486	2.3759327000007033
+21	2	Memorization	9	Office A	Calendar	Target	3	New	14.839442700147629	n/a
+21	2	Memorization	10	Kitchen B	Broom	Target	6	Remember	0.9079905999824405	1.3919115997850895
+21	2	Memorization	11	Bedroom B	Apple	Distractor	2	New	2.642182999290526	n/a
+21	2	Memorization	12	Bedroom B	Inhaler	Distractor	6	Remember	1.016712199896574	1.4079100005328655
+21	2	Memorization	13	Bathroom A	Shampoo	Target	6	Remember	0.13132840022444725	2.975938099436462
+21	2	Memorization	14	Bathroom A	Toilet brush	Target	5	Remember	0.8697124002501369	1.2958980007097125
+21	2	Memorization	15	Kitchen B	Soup	Target	6	Remember	0.3818196998909116	1.0157159995287657
+21	2	Memorization	16	Living room B	Radio	Target	5	Know	0.8386276001110673	0.9999241000041366
+21	2	Memorization	17	Office A	Fruit bowl	Distractor	2	New	1.3639253992587328	n/a
+21	2	Memorization	18	Bedroom B	Statue	Distractor	6	Remember	0.6277609001845121	3.9760211994871497
+21	2	Memorization	19	Bathroom	Golden branches	New (Lure)	2	New	0.7992088003084064	n/a
+21	2	Memorization	20	Bathroom	Electric toothbrush	New (Lure)	1	New	1.0585487000644207	n/a
+21	2	Memorization	21	Bedroom B	Dartboard	Target	6	Remember	1.3815754000097513	1.3519078008830547
+21	2	Memorization	22	Office A	Whisky	Distractor	2	New	1.292994199320674	n/a
+21	2	Memorization	23	Kitchen	Lucky cat	New (Lure)	2	New	1.4656826993450522	n/a
+21	2	Memorization	24	Living room B	Flowers	Target	6	Remember	0.9950666995719075	1.0958718992769718
+21	2	Memorization	25	Living room B	Candle	Target	6	Remember	0.5257817003875971	3.999809100292623
+21	2	Memorization	26	Bedroom	Decorative wood	New (Lure)	3	New	0.9470710000023246	n/a
+21	2	Memorization	27	Bathroom	Pacifier	New (Lure)	2	New	1.211998200044036	n/a
+21	2	Memorization	28	Kitchen B	Turkey	Target	6	Remember	1.092887899838388	1.0799454003572464
+21	2	Memorization	29	Living room	Advent calendar	New (Lure)	1	New	1.1379431001842022	n/a
+21	2	Memorization	30	Office	Briefcase	New (Lure)	4	Know	0.8764295997098088	0.8639702005311847
+21	2	Memorization	31	Living room B	Banjo	Distractor	6	Remember	1.484709800221026	1.7359199998900294
+21	2	Memorization	32	Office A	Calculator	Target	6	Remember	1.5717620002105832	1.0799129996448755
+21	2	Memorization	33	Bathroom	Shaving mirror	New (Lure)	3	New	0.7921949997544289	n/a
+21	2	Memorization	34	Living room	Candles	New (Lure)	2	New	1.59765260014683	n/a
+21	2	Memorization	35	Bedroom	Decorative cat	New (Lure)	3	New	0.938263799995184	n/a
+21	2	Memorization	36	Kitchen B	Coffee maker	Target	4	Know	1.5919391000643373	1.240025800652802
+21	2	Memorization	37	Office	Seat cushion	New (Lure)	2	New	0.3236471004784107	n/a
+21	2	Memorization	38	Bathroom A	Toothbrushes	Target	6	Remember	1.0875837001949549	1.343830400146544
+21	2	Memorization	39	Living room B	Mug	Target	4	Know	4.33027429971844	0.9439345002174377
+21	2	Memorization	40	Office	Staple remover	New (Lure)	3	New	1.9822440007701516	n/a
+21	2	Memorization	41	Kitchen B	Kitchen herbs	Target	6	Remember	0.47605419997125864	0.9678608002141118
+21	2	Memorization	42	Bedroom	Decorative bull	New (Lure)	3	New	3.1226452998816967	n/a
+21	2	Memorization	43	Kitchen B	Banana	Distractor	3	New	0.5506883999332786	n/a
+21	2	Memorization	44	Bathroom	Shaving gel	New (Lure)	3	New	1.2354353005066514	n/a
+21	2	Memorization	45	Living room	Handheld console	New (Lure)	4	Know	3.301775699481368	0.9837771998718381
+21	2	Memorization	46	Living room	Wheeled walker	New (Lure)	2	New	0.7069586999714375	n/a
+21	2	Memorization	47	Bedroom B	Baseball bat	Target	6	Remember	0.3239901000633836	0.9198769005015492
+21	2	Memorization	48	Bedroom B	Cereal	Target	6	Remember	0.5005829995498061	0.6240047998726368
+21	2	Memorization	49	Living room	Shoes	New (Lure)	3	New	3.082499299198389	n/a
+21	2	Memorization	50	Office A	Tape dispenser	Target	6	Remember	0.3245524996891618	0.4238809999078512
+21	2	Memorization	51	Living room	Roses	New (Lure)	3	New	1.6210329998284578	n/a
+21	2	Memorization	52	Bathroom	Trashcan	New (Lure)	3	New	1.0757284993305802	n/a
+21	2	Memorization	53	Bedroom	Glasses	New (Lure)	3	New	1.237461400218308	n/a
+21	2	Memorization	54	Office	Wastepaper basket	New (Lure)	2	New	3.1601641001179814	n/a
+21	2	Memorization	55	Bathroom	Cleaning agent	New (Lure)	2	New	0.9894740004092455	n/a
+21	2	Memorization	56	Living room B	Lavalamp	Distractor	6	Remember	0.9554818002507091	1.103914799168706
+21	2	Memorization	57	Office	Decorative bird	New (Lure)	1	New	1.2999545997008681	n/a
+21	2	Memorization	58	Living room B	Painting	Target	6	Remember	1.1473655998706818	0.5119129996746778
+21	2	Memorization	59	Bedroom	Earphones	New (Lure)	4	Know	1.0924033001065254	0.7679698998108506
+21	2	Memorization	60	Office A	Notebook	Distractor	6	Remember	1.2829810995608568	0.5919292997568846
+21	2	Memorization	61	Kitchen B	Toaster	Distractor	4	Know	0.8071368001401424	1.1199085004627705
+21	2	Memorization	62	Office A	Scissors	Target	6	Remember	1.3733754996210337	0.5519097000360489
+21	2	Memorization	63	Office A	Flamingoes	Distractor	3	New	1.602042299695313	n/a
+21	2	Memorization	64	Bathroom A	Toilet paper	Target	4	Know	1.8013263996690512	0.5199672002345324
+21	2	Memorization	65	Bedroom	Wheelchair	New (Lure)	1	New	0.9387584002688527	n/a
+21	2	Memorization	66	Living room	Ornaments	New (Lure)	1	New	0.10659920051693916	n/a
+21	2	Memorization	67	Kitchen B	Corkscrew	Target	6	Remember	0.577280499972403	0.8079388998448849
+21	2	Memorization	68	Bedroom	Decorative heads	New (Lure)	2	New	1.061764500103891	n/a
+21	2	Memorization	69	Kitchen	Bowl	New (Lure)	2	New	0.4978040000423789	n/a
+21	2	Memorization	70	Living room B	Cactus	Target	6	Remember	3.501282500103116	0.4558950001373887
+21	2	Memorization	71	Kitchen B	Microwave	Target	5	Remember	0.8203350994735956	1.287924200296402
+21	2	Memorization	72	Kitchen	Oven dishes	New (Lure)	4	Know	3.1103651002049446	0.7917479006573558
+21	2	Memorization	73	Office	Keys	New (Lure)	3	New	0.3393148994073272	n/a
+21	2	Memorization	74	Office	Batteries	New (Lure)	3	New	0.9356572004035115	n/a
+21	2	Memorization	75	Kitchen B	Pepper mill	Target	6	Remember	2.544193400070071	0.6158833997324109
+21	2	Memorization	76	Living room	Toy ball	New (Lure)	3	New	2.2496293000876904	n/a
+21	2	Memorization	77	Office	Snow globe	New (Lure)	1	New	0.9321269001811743	n/a
+21	2	Memorization	78	Office	Box files	New (Lure)	2	New	1.0570555999875069	n/a
+21	2	Memorization	79	Bedroom	Blanket	New (Lure)	3	New	2.3794315000995994	n/a
+21	2	Memorization	80	Bathroom A	Incense sticks	Distractor	6	Remember	0.14215310011059046	1.3279336001724005
+21	2	Memorization	81	Office	Stapler	New (Lure)	3	New	2.015163999982178	n/a
+21	2	Memorization	82	Bedroom	Tealight	New (Lure)	2	New	1.3358354000374675	n/a
+21	2	Memorization	83	Bedroom B	Smartwatch	Distractor	6	Remember	0.14901489950716496	1.2559419004246593
+21	2	Memorization	84	Bathroom	Cups	New (Lure)	3	New	1.308972300030291	n/a
+21	2	Memorization	85	Bedroom	Dumb bell	New (Lure)	4	Know	1.380477599799633	0.543975199572742
+21	2	Memorization	86	Bedroom B	Horseshoe	Target	3	New	1.1091143004596233	n/a
+21	2	Memorization	87	Kitchen	Pretzel	New (Lure)	3	New	1.8054676996544003	n/a
+21	2	Memorization	88	Kitchen	Chocolates	New (Lure)	2	New	0.5881118001416326	n/a
+21	2	Memorization	89	Kitchen B	Knife block	Distractor	2	New	1.7789851995185018	n/a
+21	2	Memorization	90	Living room B	Laptop	Target	6	Remember	0.2383512994274497	0.8478552997112274
+21	2	Memorization	91	Living room B	Wall clock	Target	6	Remember	2.3874708004295826	0.5599498003721237
+21	2	Memorization	92	Kitchen	Kitchen tools	New (Lure)	4	Know	4.068874900229275	0.4560647998005152
+21	2	Memorization	93	Office A	Telephone	Target	6	Remember	1.5398883000016212	0.527815499342978
+21	2	Memorization	94	Bedroom B	Dustpan	Target	6	Remember	1.8754364997148514	1.207824899815023
+21	2	Memorization	95	Office	World map	New (Lure)	3	New	1.963191400282085	n/a
+21	2	Memorization	96	Office	Hard drive	New (Lure)	4	Know	3.245838399976492	1.2719064000993967
+21	2	Memorization	97	Bathroom A	Wall lamp	Distractor	2	New	1.4746298994868994	n/a
+21	2	Memorization	98	Kitchen	Electric kettle	New (Lure)	5	Know	2.1585698993876576	1.183873599395156
+21	2	Memorization	99	Bedroom B	Drinking bottle	Target	6	Know	1.3796161003410816	2.3279241006821394
+21	2	Memorization	100	Bedroom B	Headphones	Target	6	Remember	0.33678979985415936	0.5038698995485902
+21	2	Memorization	101	Office A	Newspaper	Target	6	Remember	1.6200202004984021	0.599863899871707
+21	2	Memorization	102	Bathroom	Magazine	New (Lure)	6	Know	2.361680299974978	1.551889699883759
+21	2	Memorization	103	Living room B	Crucifix	Distractor	3	New	1.0771544994786382	n/a
+21	2	Memorization	104	Bathroom	Spotlight	New (Lure)	4	Know	2.035618199966848	1.1678609000518918
+21	2	Memorization	105	Office A	Donuts	Target	6	Remember	0.4185734996572137	1.1839188002049923
+21	2	Memorization	106	Living room	Controller	New (Lure)	3	New	1.0911014005541801	n/a
+21	2	Memorization	107	Living room	Robot vacuum	New (Lure)	3	New	0.8674333998933434	n/a
+21	2	Memorization	108	Kitchen	Vacuum cleaner	New (Lure)	2	New	0.020392599515616894	n/a
+21	2	Memorization	109	Bathroom	Jewlery box	New (Lure)	3	New	0.2036561006680131	n/a
+21	2	Memorization	110	Bathroom	Shower brush	New (Lure)	3	New	1.7250789999961853	n/a
+21	2	Memorization	111	Bathroom	Sea shell	New (Lure)	2	New	2.1639686999842525	n/a
+21	2	Memorization	112	Kitchen B	Pots	Target	4	Know	0.719526800327003	2.495930999517441
+21	2	Memorization	113	Bedroom B	Camera	Target	6	Remember	0.47001849953085184	1.9359226999804378
+21	2	Memorization	114	Bedroom B	Football	Target	6	Remember	0.7068635001778603	1.3359128003939986
+21	2	Memorization	115	Bathroom A	Bath rug	Distractor	3	New	3.211472800001502	n/a
+21	2	Memorization	116	Bathroom A	Towel hook	Distractor	3	New	1.8764933003112674	n/a
+21	2	Memorization	117	Bedroom	Toy train	New (Lure)	2	New	1.8095760000869632	n/a
+21	2	Memorization	118	Bathroom A	Bathroom scales	Distractor	4	Know	2.500545999966562	0.407850100658834
+21	2	Memorization	119	Bathroom A	Soap bar	Target	6	Remember	1.7363515002653003	1.2079082997515798
+21	2	Memorization	120	Living room	Baby stroller	New (Lure)	2	New	3.9393843999132514	n/a
+21	2	Memorization	121	Bathroom A	Comb	Target	3	New	2.283126000314951	n/a
+21	2	Memorization	122	Kitchen B	Buns	Target	2	New	0.9893231000751257	n/a
+21	2	Memorization	123	Living room	Toy truck	New (Lure)	1	New	1.084341799840331	n/a
+21	2	Memorization	124	Office A	Hole puncher	Target	6	Remember	0.8220470994710922	1.0398962004110217
+21	2	Memorization	125	Kitchen	Pineapple	New (Lure)	2	New	1.5345113994553685	n/a
+21	2	Memorization	126	Living room	Piece of cake	New (Lure)	3	New	2.610317399725318	n/a
+21	2	Memorization	127	Living room B	Metronome	Distractor	4	Know	1.5717697003856301	0.8078765003010631
+21	2	Memorization	128	Office	Car key	New (Lure)	3	New	1.3493482992053032	n/a
+21	2	Memorization	129	Living room B	Cigarettes	Target	6	Remember	2.659280899912119	0.5918870996683836
+21	2	Memorization	130	Bathroom A	Slippers	Target	6	Remember	1.359909899532795	1.0639204001054168
+21	2	Memorization	131	Bedroom B	Electric guitar	Distractor	4	Know	0.7717196000739932	0.807982100173831
+21	2	Memorization	132	Kitchen	Serving cart	New (Lure)	1	New	0.8278792006894946	n/a
+21	2	Memorization	133	Office A	Bonsai	Distractor	3	New	2.316098300740123	n/a
+21	2	Memorization	134	Kitchen	Breadbox	New (Lure)	2	New	0.9657469000667334	n/a
+21	2	Memorization	135	Kitchen	Mortar	New (Lure)	3	New	0.403231599368155	n/a
+21	2	Memorization	136	Office A	Candy bar	Target	6	Remember	1.0916128996759653	1.0879300003871322
+21	2	Memorization	137	Living room B	Clef	Distractor	3	New	3.1416445998474956	n/a
+21	2	Memorization	138	Kitchen	Cookbook	New (Lure)	3	New	1.7524354001507163	n/a
+21	2	Memorization	139	Bathroom	Bucket	New (Lure)	2	New	5.580071799457073	n/a
+21	2	Memorization	140	Living room	Guitar	New (Lure)	3	New	0.7660606997087598	n/a
+21	2	Memorization	141	Bathroom A	Hair dryer	Target	6	Know	3.4515412002801895	1.743894400075078
+21	2	Memorization	142	Bathroom A	Rubber duck	Target	6	Remember	1.0567309996113181	0.9999078996479511
+21	2	Memorization	143	Kitchen B	Egg timer	Distractor	3	New	0.6975661003962159	n/a
+21	2	Memorization	144	Bedroom B	Trophy	Target	6	Remember	1.0479190992191434	1.5680304998531938
+21	2	Memorization	145	Bedroom	Teddy bear	New (Lure)	3	New	0.7444409001618624	n/a
+21	2	Memorization	146	Bathroom	Thermometer	New (Lure)	3	New	2.2401411999017	n/a
+21	2	Memorization	147	Office	Tower computer	New (Lure)	4	Know	0.8864665003493428	1.015929900109768
+21	2	Memorization	148	Bedroom	Bags	New (Lure)	3	New	0.0449340995401144	n/a
+21	2	Memorization	149	Kitchen	Ginger	New (Lure)	2	New	1.579874699935317	n/a
+21	2	Memorization	150	Bathroom A	Toothpaste	Target	5	Know	2.606068500317633	1.2400003001093864

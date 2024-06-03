@@ -1,0 +1,101 @@
+subj	task_num	task	trial_num	scene	obj	timeout	rt
+18	1	Memorization	1	Living room A	Television	n/a	1.4155015659696315
+18	1	Memorization	2	Office A	Newspaper	n/a	0.6040963107565801
+18	1	Memorization	3	Kitchen B	Kitchen herbs	n/a	1.2831228702582935
+18	1	Memorization	4	Office A	Calendar	n/a	1.1092202679899392
+18	1	Memorization	5	Bathroom A	Comb	n/a	0.9137215720262479
+18	1	Memorization	6	Living room A	Loudspeaker	n/a	1.0545743386437394
+18	1	Memorization	7	Office A	Scissors	n/a	0.8237852483675466
+18	1	Memorization	8	Bedroom B	Drinking bottle	n/a	1.2482495323735692
+18	1	Memorization	9	Bathroom A	Toothpaste	n/a	0.8695304795860407
+18	1	Memorization	10	Office A	Hole puncher	n/a	0.6946961534491706
+18	1	Memorization	11	Bathroom A	Shampoo	n/a	1.4079187470645174
+18	1	Memorization	12	Bathroom A	Rubber duck	n/a	0.9686681846085831
+18	1	Memorization	13	Bedroom B	Football	n/a	1.1230266044518964
+18	1	Memorization	14	Kitchen B	Broom	n/a	0.7397866140505006
+18	1	Memorization	15	Office A	Telephone	n/a	0.58573124485628
+18	1	Memorization	16	Bedroom B	Dustpan	n/a	0.6924025342245723
+18	1	Memorization	17	Bedroom B	Dartboard	n/a	0.671425085246725
+18	1	Memorization	18	Bathroom A	Toothbrushes	n/a	1.3656790998763844
+18	1	Memorization	19	Living room A	Books	n/a	1.1773194801853615
+18	1	Memorization	20	Bedroom B	Camera	n/a	1.299074490461816
+18	1	Memorization	21	Bathroom A	Soap bar	n/a	1.3312538995493293
+18	1	Memorization	22	Kitchen B	Pepper mill	n/a	0.5385589258448731
+18	1	Memorization	23	Living room A	Tablet computer	n/a	1.0458441482647283
+18	1	Memorization	24	Living room A	Aquarium	n/a	0.8470560439594734
+18	1	Memorization	25	Bathroom A	Toilet paper	n/a	1.0415281436431822
+18	1	Memorization	26	Bedroom B	Baseball bat	n/a	0.8309624131515975
+18	1	Memorization	27	Living room A	Fan	n/a	1.3211380810914526
+18	1	Memorization	28	Kitchen B	Buns	n/a	0.9028199332202018
+18	1	Memorization	29	Office A	Tape dispenser	n/a	1.1107420550046738
+18	1	Memorization	30	Bedroom B	Trophy	n/a	0.8070214668709931
+18	1	Memorization	31	Kitchen B	Turkey	n/a	0.7412642565404097
+18	1	Memorization	32	Living room A	Vases	n/a	0.9638379277152556
+18	1	Memorization	33	Office A	Donuts	n/a	0.942407321711895
+18	1	Memorization	34	Bedroom B	Horseshoe	n/a	0.6462037843584763
+18	1	Memorization	35	Office A	Calculator	n/a	1.3325078371272834
+18	1	Memorization	36	Bathroom A	Slippers	n/a	0.6998153927805707
+18	1	Memorization	37	Living room A	Remote control	n/a	0.6336870900169589
+18	1	Memorization	38	Kitchen B	Corkscrew	n/a	1.0412652672190896
+18	1	Memorization	39	Bedroom B	Headphones	n/a	1.3656847020568528
+18	1	Memorization	40	Kitchen B	Pots	n/a	1.2486486421976317
+18	1	Memorization	41	Bedroom B	Cereal	n/a	1.0711313722042788
+18	1	Memorization	42	Kitchen B	Microwave	n/a	0.9348425332651469
+18	1	Memorization	43	Living room A	Pot plant	n/a	1.4108462628715397
+18	1	Memorization	44	Office A	Candy bar	n/a	1.3096151877273545
+18	1	Memorization	45	Bathroom A	Toilet brush	n/a	1.0562438969434687
+18	1	Memorization	46	Office A	Encyclopedia	n/a	0.8438024394727387
+18	1	Memorization	47	Living room A	Nachos	n/a	0.5475485585583247
+18	1	Memorization	48	Kitchen B	Coffee maker	n/a	0.5717040146861447
+18	1	Memorization	49	Kitchen B	Soup	n/a	1.2321996680876475
+18	1	Memorization	50	Bathroom A	Hair dryer	n/a	1.3487237940884058
+18	2	Search	1	Kitchen A	Dish rack	0	3.4452798003330827
+18	2	Search	2	Bathroom B	Pills	0	3.082094500772655
+18	2	Search	3	Bedroom A	Basketball	0	0.7104039993137121
+18	2	Search	4	Living room B	Wall clock	0	1.098542899824679
+18	2	Search	5	Kitchen A	Travel mug	0	1.860291600227356
+18	2	Search	6	Living room B	Radio	0	1.8222254002466798
+18	2	Search	7	Kitchen A	Baby bottles	0	1.4039005003869534
+18	2	Search	8	Office B	Printer	0	2.3774656001478434
+18	2	Search	9	Bathroom B	Hairbrush	0	1.6132330996915698
+18	2	Search	10	Living room B	Laptop	0	1.3599550994113088
+18	2	Search	11	Living room B	Cactus	0	2.1383698005229235
+18	2	Search	12	Kitchen A	Sponge	0	1.4492715997621417
+18	2	Search	13	Office B	Globe	0	0.7647342002019286
+18	2	Search	14	Bedroom A	Poster	0	1.0106928003951907
+18	2	Search	15	Bathroom B	Razor	0	1.669917999766767
+18	2	Search	16	Bedroom A	Sunglasses	0	0.891711900010705
+18	2	Search	17	Bedroom A	Clothes hanger	0	1.6547619998455048
+18	2	Search	18	Bedroom A	Alarm clock	0	0.692141099832952
+18	2	Search	19	Kitchen A	Cheese grater	0	1.220745800063014
+18	2	Search	20	Bedroom A	Lipstick	0	0.7574631003662944
+18	2	Search	21	Office B	Computer screen	0	0.9943976001814008
+18	2	Search	22	Office B	Sandwich	0	0.9334649993106723
+18	2	Search	23	Office B	Keyboard	0	0.5682661999017
+18	2	Search	24	Living room B	Cigarettes	0	0.9178150007501245
+18	2	Search	25	Bathroom B	Curling iron	0	1.052395099774003
+18	2	Search	26	Bedroom A	Pillow	0	1.0298998998478055
+18	2	Search	27	Bedroom A	Lamp	0	0.9025906007736921
+18	2	Search	28	Kitchen A	Spatula	0	0.65289940033108
+18	2	Search	29	Bathroom B	Laundry basket	0	2.03573099989444
+18	2	Search	30	Bathroom B	Plunger	0	0.6946807997301221
+18	2	Search	31	Office B	Paper racks	0	0.9317663004621863
+18	2	Search	32	Bedroom A	Hand fan	0	3.203867900185287
+18	2	Search	33	Living room B	Record player	0	1.896726499311626
+18	2	Search	34	Kitchen A	Paper towels	0	0.6903865002095699
+18	2	Search	35	Living room B	Painting	0	1.092718199826777
+18	2	Search	36	Living room B	Flowers	0	1.8521635998040438
+18	2	Search	37	Kitchen A	Bread	0	1.0124372001737356
+18	2	Search	38	Bathroom B	Towel stack	0	1.4061422003433108
+18	2	Search	39	Kitchen A	Pan	0	0.7556897001340985
+18	2	Search	40	Bedroom A	Handbag	0	0.940879600122571
+18	2	Search	41	Kitchen A	Pizza leftovers	0	0.6129344999790192
+18	2	Search	42	Living room B	Mug	0	1.4855409003794193
+18	2	Search	43	Office B	CD	0	1.221560699865222
+18	2	Search	44	Bathroom B	Soap dispenser	0	1.8780727004632354
+18	2	Search	45	Office B	Multi socket	0	1.390689100138843
+18	2	Search	46	Bathroom B	Manicure set	0	2.427904900163412
+18	2	Search	47	Office B	Ruler	0	7.872534899972379
+18	2	Search	48	Office B	Parcel	0	1.8399720005691051
+18	2	Search	49	Living room B	Candle	0	2.478346100077033
+18	2	Search	50	Bathroom B	Deodorant spray	0	3.3814987000077963

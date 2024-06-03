@@ -1,0 +1,101 @@
+subj	task_num	task	trial_num	scene	obj	timeout	rt
+1	1	Search	1	Bathroom B	Deodorant spray	0	2.263752399943769
+1	1	Search	2	Bedroom B	Drinking bottle	0	1.7608845001086593
+1	1	Search	3	Kitchen B	Pots	0	2.920458400156349
+1	1	Search	4	Living room B	Cactus	0	1.2900077998638153
+1	1	Search	5	Office B	Printer	0	0.8695098999887705
+1	1	Search	6	Bedroom B	Football	0	0.8936054999940097
+1	1	Search	7	Bathroom B	Manicure set	0	1.8677654997445643
+1	1	Search	8	Bedroom B	Horseshoe	0	1.9018321000039577
+1	1	Search	9	Office B	Keyboard	0	0.8032765998505056
+1	1	Search	10	Bedroom B	Camera	0	1.7254273002035916
+1	1	Search	11	Living room B	Record player	0	1.409251400269568
+1	1	Search	12	Bathroom B	Razor	0	1.6680338000878692
+1	1	Search	13	Bathroom B	Hairbrush	0	2.144772899802774
+1	1	Search	14	Kitchen B	Broom	0	0.8784125000238419
+1	1	Search	15	Living room B	Cigarettes	0	1.5454669003374875
+1	1	Search	16	Bathroom B	Pills	0	2.0792371002025902
+1	1	Search	17	Kitchen B	Pepper mill	0	1.060205700341612
+1	1	Search	18	Office B	Multi socket	0	1.2228240999393165
+1	1	Search	19	Living room B	Mug	0	1.4115561000071466
+1	1	Search	20	Bedroom B	Dartboard	0	0.6458128001540899
+1	1	Search	21	Office B	Paper racks	0	2.0837760004214942
+1	1	Search	22	Bedroom B	Headphones	0	2.4602331002242863
+1	1	Search	23	Kitchen B	Coffee maker	0	1.621153799816966
+1	1	Search	24	Living room B	Flowers	0	1.1970786000601947
+1	1	Search	25	Bedroom B	Trophy	0	0.9234864003956318
+1	1	Search	26	Bathroom B	Curling iron	0	0.9246861999854445
+1	1	Search	27	Office B	Parcel	0	1.2837666999548674
+1	1	Search	28	Bedroom B	Cereal	0	0.9234696999192238
+1	1	Search	29	Kitchen B	Soup	0	0.9879173999652267
+1	1	Search	30	Kitchen B	Turkey	0	0.5623928001150489
+1	1	Search	31	Bathroom B	Laundry basket	0	2.8275985000655055
+1	1	Search	32	Living room B	Laptop	0	0.925178499892354
+1	1	Search	33	Bedroom B	Baseball bat	0	6.43420200003311
+1	1	Search	34	Living room B	Candle	0	4.571163100190461
+1	1	Search	35	Living room B	Painting	0	0.8409051997587085
+1	1	Search	36	Office B	Globe	0	1.699298799969256
+1	1	Search	37	Kitchen B	Kitchen herbs	0	0.7749065002426505
+1	1	Search	38	Living room B	Wall clock	0	1.0282418001443148
+1	1	Search	39	Office B	Sandwich	0	1.0207549999468029
+1	1	Search	40	Kitchen B	Corkscrew	0	1.1488298000767827
+1	1	Search	41	Bedroom B	Dustpan	0	1.0036917999386787
+1	1	Search	42	Office B	Computer screen	0	0.7457671999000013
+1	1	Search	43	Bathroom B	Towel stack	0	1.0901051997207105
+1	1	Search	44	Bathroom B	Plunger	0	0.764484400395304
+1	1	Search	45	Office B	Ruler	0	1.1921149003319442
+1	1	Search	46	Kitchen B	Microwave	0	0.961699599865824
+1	1	Search	47	Office B	CD	0	1.672620499972254
+1	1	Search	48	Kitchen B	Buns	0	2.230527800042182
+1	1	Search	49	Living room B	Radio	0	1.6297647003084421
+1	1	Search	50	Bathroom B	Soap dispenser	0	1.6112154996953905
+1	2	Memorization	1	Kitchen A	Sponge	n/a	0.9612443951512329
+1	2	Memorization	2	Bathroom A	Slippers	n/a	1.3334564650757796
+1	2	Memorization	3	Kitchen A	Baby bottles	n/a	0.7356997468688574
+1	2	Memorization	4	Bedroom A	Lamp	n/a	1.3350707352730597
+1	2	Memorization	5	Bathroom A	Toothpaste	n/a	0.8433631154578312
+1	2	Memorization	6	Office A	Newspaper	n/a	0.5077023642427432
+1	2	Memorization	7	Living room A	Television	n/a	1.164733116482608
+1	2	Memorization	8	Office A	Encyclopedia	n/a	0.886406886164645
+1	2	Memorization	9	Bathroom A	Toilet brush	n/a	0.6341083785781265
+1	2	Memorization	10	Kitchen A	Spatula	n/a	0.8154639048744361
+1	2	Memorization	11	Kitchen A	Pan	n/a	0.518587130258817
+1	2	Memorization	12	Bathroom A	Soap bar	n/a	1.076356513526072
+1	2	Memorization	13	Office A	Scissors	n/a	1.3677316093055605
+1	2	Memorization	14	Kitchen A	Cheese grater	n/a	0.6053811271254184
+1	2	Memorization	15	Living room A	Pot plant	n/a	1.000103442045679
+1	2	Memorization	16	Bedroom A	Alarm clock	n/a	0.5449864565148351
+1	2	Memorization	17	Bedroom A	Handbag	n/a	0.6201665006634883
+1	2	Memorization	18	Living room A	Nachos	n/a	1.0703396919149921
+1	2	Memorization	19	Bedroom A	Clothes hanger	n/a	1.1178624928675092
+1	2	Memorization	20	Kitchen A	Paper towels	n/a	1.1658724096718998
+1	2	Memorization	21	Bedroom A	Pillow	n/a	0.8611620769397099
+1	2	Memorization	22	Bathroom A	Toothbrushes	n/a	0.7801719479248975
+1	2	Memorization	23	Bedroom A	Lipstick	n/a	0.7315057596266408
+1	2	Memorization	24	Bedroom A	Sunglasses	n/a	1.091760622354017
+1	2	Memorization	25	Bedroom A	Poster	n/a	0.6155090355026783
+1	2	Memorization	26	Kitchen A	Travel mug	n/a	1.2882110119562022
+1	2	Memorization	27	Bathroom A	Shampoo	n/a	1.30724414414933
+1	2	Memorization	28	Bathroom A	Toilet paper	n/a	1.383838567579982
+1	2	Memorization	29	Kitchen A	Dish rack	n/a	1.2886987765905784
+1	2	Memorization	30	Bedroom A	Hand fan	n/a	1.363659695010022
+1	2	Memorization	31	Office A	Calendar	n/a	0.8912469150767705
+1	2	Memorization	32	Office A	Telephone	n/a	0.9484176611926709
+1	2	Memorization	33	Living room A	Aquarium	n/a	0.5116005498547783
+1	2	Memorization	34	Bedroom A	Basketball	n/a	1.0094531757737264
+1	2	Memorization	35	Living room A	Fan	n/a	0.8822546889397531
+1	2	Memorization	36	Office A	Tape dispenser	n/a	1.4400322159952337
+1	2	Memorization	37	Kitchen A	Pizza leftovers	n/a	1.1341343849600194
+1	2	Memorization	38	Office A	Hole puncher	n/a	1.2513854741382906
+1	2	Memorization	39	Office A	Calculator	n/a	1.3901935721451006
+1	2	Memorization	40	Living room A	Loudspeaker	n/a	1.1325559145688855
+1	2	Memorization	41	Office A	Candy bar	n/a	1.1065557888103787
+1	2	Memorization	42	Bathroom A	Rubber duck	n/a	0.7202002103929034
+1	2	Memorization	43	Living room A	Tablet computer	n/a	1.3152804632632387
+1	2	Memorization	44	Living room A	Remote control	n/a	1.2896324131598815
+1	2	Memorization	45	Living room A	Books	n/a	0.8932967696369348
+1	2	Memorization	46	Office A	Donuts	n/a	1.3900526120978571
+1	2	Memorization	47	Bathroom A	Comb	n/a	1.3638815877303387
+1	2	Memorization	48	Kitchen A	Bread	n/a	0.6999760063151129
+1	2	Memorization	49	Bathroom A	Hair dryer	n/a	1.1337568313164494
+1	2	Memorization	50	Living room A	Vases	n/a	1.4485192008741825
